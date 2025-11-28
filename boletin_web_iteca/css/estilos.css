@@ -1,0 +1,12 @@
+@import url('bootstrap.css');
+@import url('colors.css');
+@import url('components.css');
+@import url('core.css');
+@import url('styles.css');
+
+.login-cover-mi-fondo {
+	background-image: url('../imagenes/user_bg4.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
